@@ -17,7 +17,6 @@
   <img align="right" alt="diego-gif" height="150" width="150" src="https://media.discordapp.net/attachments/883514873160540191/883514940370075679/Webp.net-gifmaker.gif">
 </div>
 
- 
-    ![Snake animation](https://github.com/diegodjonath/diegodjonath/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/diegodjonath/diegodjonath/blob/output/github-contribution-grid-snake.svg)
 
   
